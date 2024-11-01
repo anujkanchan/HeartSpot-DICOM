@@ -16,6 +16,9 @@ This project includes a notebook that preprocesses, annotates, and visualizes he
 - **Bounding Boxes**: Identifies and annotates heart locations in each image with bounding boxes.
 - **Visualization**: Displays bounding boxes over images for accuracy verification.
 
+![image](https://github.com/user-attachments/assets/3826e9b3-e349-4910-9efb-e1cc5f4b9172)
+
+
 ## Dataset
 
 The dataset comprises DICOM images with labeled bounding boxes that indicate the heart region:
